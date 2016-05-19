@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("第二版要发布了哦");
         System.out.println("第三版要发布了哦");
+		System.out.println("第四版要发布了哦");
     }
 }
